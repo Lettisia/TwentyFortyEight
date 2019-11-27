@@ -4,7 +4,7 @@ using System.Text;
 
 namespace TwentyFortyEight
 {
-    class Tile
+    public class Tile
     {
         public int Value { get; set; }
 

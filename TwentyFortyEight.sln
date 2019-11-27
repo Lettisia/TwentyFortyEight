@@ -7,6 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwentyFortyEight", "TwentyF
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwentyFortyEightTest", "TwentyFortyEightTest\TwentyFortyEightTest.csproj", "{4FB6B510-2B17-478A-81B1-351D1F4863BC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwentyFortyEightConsole", "TwentyFortyEightConsole\TwentyFortyEightConsole.csproj", "{E24BA6BB-E309-4161-86D7-2E6282671078}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwentyFortyEightApp", "TwentyFortyEightApp\TwentyFortyEightApp.csproj", "{1AAC8411-4F0D-49D9-ABE8-AE754A261770}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{4FB6B510-2B17-478A-81B1-351D1F4863BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4FB6B510-2B17-478A-81B1-351D1F4863BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4FB6B510-2B17-478A-81B1-351D1F4863BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E24BA6BB-E309-4161-86D7-2E6282671078}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E24BA6BB-E309-4161-86D7-2E6282671078}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E24BA6BB-E309-4161-86D7-2E6282671078}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E24BA6BB-E309-4161-86D7-2E6282671078}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AAC8411-4F0D-49D9-ABE8-AE754A261770}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AAC8411-4F0D-49D9-ABE8-AE754A261770}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AAC8411-4F0D-49D9-ABE8-AE754A261770}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AAC8411-4F0D-49D9-ABE8-AE754A261770}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
